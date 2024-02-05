@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnachaitanyarao
 - 👀 I’m interested in AI/ML and EdTech Startups
 - 🌱 I’m currently a PhD student
-- 💞️ I’m looking to collaborate with Startups and Learning Science floks
+- 💞️ I’m looking to collaborate with Startups and Learning Science
 - 📫 How to reach me kkathala@umass.edu
 
 <!---
